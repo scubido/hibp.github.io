@@ -1,3 +1,2 @@
 # hibp.github.io
-
-https://mega.nz/folder/FVdlQCqJ#riBtHeZUTAtNl2sTu9iS5A
+Regularly provide HIBP dataset as simple downloadable file.
